@@ -133,7 +133,7 @@ It provides detailed insights into:
 #### 📃 Power Pivot Menu
 
 - The Power Pivot menu was utilized to refine my data model, simplifying the process of creating and managing measures.
-- 
+ 
     ![2_Project_Analysis_Screenshot6.png](/0_Resources/Images/2_Project_Analysis_Screenshot6.png)
 
 ### 📊Analysis
