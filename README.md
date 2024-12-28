@@ -6,7 +6,7 @@ As a former job seeker, I've always been surprised by the lack of data exploring
 ## Salary Dashboard 
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
-[(Checkout_my_work_here](Project_1- Dashboard)
+[(Checkout_my_work_here](Project_1_-_Dashboard)
 
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/5edbfede-27f8-41a5-b005-ea01949c566a)
 
