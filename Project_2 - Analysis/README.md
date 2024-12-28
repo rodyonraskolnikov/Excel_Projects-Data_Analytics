@@ -43,7 +43,7 @@ It provides detailed insights into:
 - I began by utilizing Power Query to extract the original dataset from `data_salary_all.xlsx` and created two distinct queries:  
   - 🗃️ **First Query:** Included comprehensive information on all data-related jobs.  
   - 🔧 **Second Query:** Focused on listing the skills associated with each unique job ID.
-  - 
+
 #### 🔄 Transform
 
 - Next, I refined each query by modifying column types to match the data format, removing irrelevant columns, sanitizing text to remove specific words, and trimming any extra whitespace for a cleaner dataset.
