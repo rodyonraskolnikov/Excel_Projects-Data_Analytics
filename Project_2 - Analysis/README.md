@@ -78,7 +78,7 @@ It provides detailed insights into:
 #### 🤔 So What
 
 - This trend highlights the importance of developing a diverse set of relevant skills, especially for those aspiring to secure higher-paying positions.
-- 
+
 ## 2️⃣ What’s the salary for data jobs in different regions?
 
 ### 🧮 Skills: PivotTables & DAX
