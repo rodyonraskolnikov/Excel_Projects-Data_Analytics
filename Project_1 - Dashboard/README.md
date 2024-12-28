@@ -109,4 +109,4 @@ IF(
 
 ## Conclusion
 
-I developed this dashboard to highlight salary trends across a range of data-related job titles. Drawing from the dataset featured in my Excel course, it empowers users to make well-informed career decisions. The dashboard also explores how factors like location and job type impact salary outcomes, providing valuable insights for navigating career paths.
+I developed this dashboard to highlight salary trends across a range of data-related job titles. Drawing from the dataset featured in [Luke Barousse's Excel Course](https://youtu.be/pCJ15nGFgVg?si=SBTaweIOXg8R4InT), it empowers users to make well-informed career decisions. The dashboard also explores how factors like location and job type impact salary outcomes, providing valuable insights for navigating career paths.
