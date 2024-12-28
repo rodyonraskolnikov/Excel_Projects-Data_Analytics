@@ -1,4 +1,4 @@
-# Project 2 Skill/Job Analysis
+# Project 2 Skill/Job/Salary Analysis
 
 ## Introduction
 
