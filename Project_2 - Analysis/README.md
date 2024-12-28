@@ -25,7 +25,7 @@ The analysis leveraged the following Excel skills:
 
 ### Data Jobs Dataset
 
-The dataset for this project features real-world data science job information from 2023 and is accessible through my Excel course, which offers a comprehensive foundation in data analysis using Excel.  
+The dataset for this project features real-world data science job information from 2023 and is accessible through [Luke Barousse's Excel Course](https://youtu.be/pCJ15nGFgVg?si=SBTaweIOXg8R4InT), which offers a comprehensive foundation in data analysis using Excel.  
 
 It provides detailed insights into:  
 
