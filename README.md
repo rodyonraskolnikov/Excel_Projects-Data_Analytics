@@ -1,6 +1,24 @@
-# My Excel Data Analytics Projects
+# Excel Data Analytics Projects
 
-Welcome to my collection of Excel data analytics projects. These projects showcase my skills in data analysis, visualization, and reporting using Excel. Each project is designed to provide valuable insights and practical solutions for data-driven decision-making.
+Welcome to the Excel Data Analytics Projects repository! This collection highlights two advanced Excel projects designed to provide actionable insights into the data analytics job market. By leveraging a range of Excel tools and techniques, these projects deliver interactive dashboards and dynamic analyses to assist job seekers, career changers, and industry professionals.
+
+### Project Highlights
+
+1. [**Salary Dashboard**](/Project_1%20-%20Dashboard/)
+   The first project showcases a comprehensive salary dashboard that helps job seekers explore various roles in the data analytics field. This dashboard presents key metrics such as job titles, locations, employment types (e.g., full-time, part-time, contractor), median salaries, top job platforms, and job counts. Job seekers can dynamically filter through the data to compare roles, uncover salary trends, and identify opportunities across different countries. Key Excel features utilized include:
+
+   - 📉 **Charts** to visualize median salaries and job counts.
+   - 🧮 **Formulas and Functions** to calculate median salaries and derive actionable insights.
+   - ❎ **Data Validation** to ensure clean and accurate user inputs.
+
+2. [**Skills and Salary Analysis**](/Project_2%20-%20Analysis)  
+   The second project delves deeper into the critical skills required for data analytics roles. By using powerful Excel tools such as Power Query, PivotTables, DAX, and dynamic charts, this analysis identifies the most sought-after skills, including Python, SQL, Excel, and Tableau. The dashboard also enables users to compare median salaries for U.S., non-U.S., and specific countries using interactive slicers. Key findings include:
+
+   - 💻 **SQL and Python** as standout skills crucial for data processing and analysis.
+   - ☁️ **Emerging cloud technologies** like AWS and Azure, reflecting the industry's shift toward big data and cloud-based solutions.
+
+These projects showcase the power of Excel as a data analytics tool, combining advanced techniques with user-friendly interfaces to deliver meaningful insights. Whether you're exploring career paths or analyzing industry trends, these dashboards are tailored to meet your needs.
+
 
 ## [Project 1: Salary Dashboard](/Project_1%20-%20Dashboard/)
 
