@@ -5,7 +5,8 @@ Welcome to my [Excel Data Analytics Projects](https://github.com/rodyonraskolnik
 ### Project Highlights
 
 1. [**Salary Dashboard**](/Project_1%20-%20Dashboard/)
-   The first project showcases a comprehensive salary dashboard that helps job seekers explore various roles in the data analytics field. This dashboard presents key metrics such as job titles, locations, employment types (e.g., full-time, part-time, contractor), median salaries, top job platforms, and job counts. Job seekers can dynamically filter through the data to compare roles, uncover salary trends, and identify opportunities across different countries. Key Excel features utilized include:
+   
+The first project showcases a comprehensive salary dashboard that helps job seekers explore various roles in the data analytics field. This dashboard presents key metrics such as job titles, locations, employment types (e.g., full-time, part-time, contractor), median salaries, top job platforms, and job counts. Job seekers can dynamically filter through the data to compare roles, uncover salary trends, and identify opportunities across different countries. Key Excel features utilized include:
 
    - 📉 **Charts** to visualize median salaries and job counts.
    - 🧮 **Formulas and Functions** to calculate median salaries and derive actionable insights.
