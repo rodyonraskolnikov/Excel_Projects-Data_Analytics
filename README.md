@@ -13,6 +13,7 @@ This project showcases a comprehensive salary dashboard that helps job seekers e
    - ❎ **Data Validation** to ensure clean and accurate user inputs.
 
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/5edbfede-27f8-41a5-b005-ea01949c566a)
+
 <sub>*Users can navigate through the dashboard by simply clicking the dropdown arrows and the whole dashboard updates itself.*<sub/>
 
 #### For the in-depth analysis of Project 1, [please click here.](/Project_1%20-%20Salary%20Dashboard/)
