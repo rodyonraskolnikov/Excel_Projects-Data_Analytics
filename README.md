@@ -13,7 +13,8 @@ This project showcases a comprehensive salary dashboard that helps job seekers e
    - ❎ **Data Validation** to ensure clean and accurate user inputs.
 
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/5edbfede-27f8-41a5-b005-ea01949c566a)
-*Users can navigate through the dashboard by simply clicking the dropdown arrows and the whole dashboard updates itself.*
+
+<sub>*Users can navigate through the dashboard by simply clicking the dropdown arrows and the whole dashboard updates itself.*<sub/>
 
 #### For the in-depth analysis of Project 1, [please click here.](/Project_1%20-%20Salary%20Dashboard/)
 
@@ -25,10 +26,12 @@ The second project delves deeper into the critical skills required for data anal
    - ☁️ **Emerging cloud technologies** like AWS and Azure, reflecting the industry's shift toward big data and cloud-based solutions.
 
 ![2_Project_Analysis_Chart1](https://github.com/user-attachments/assets/e08ecc37-58bd-4f54-968e-75e5504babcb)
-*Chart displaying the relation between skill count, job titles, and the median salaries.*
+
+<sub>*Chart displaying the relation between skill count, job titles, and the median salaries.*<sub/>
 
 ![2_Project_Analysis_Chart2](https://github.com/user-attachments/assets/6c9fadb6-2b2d-4dbb-8186-53c3e01e12a4)
-*The project allows median salary comparison between various job titles related to data analytics and locations around the world.*
+
+<sub>*The project allows median salary comparison between various job titles related to data analytics and locations around the world.*<sub/>
 
 #### For the in-depth analysis of Project 2, [please click here.](/Project_2%20-%20Skill/Job/Salary%20Analysis)
 
