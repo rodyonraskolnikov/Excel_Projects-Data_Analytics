@@ -48,4 +48,4 @@ These projects demonstrate the power of Excel in analyzing and visualizing compl
 
 Feel free to explore the projects and reach out if you have any questions or feedback!
 
-Shoutout to Luke Barousse for his amazing contribution as the Excel course owner of these projects. Without his help, I could never have achieved such a repository.
+Shoutout to [Luke Barousse](https://www.lukebarousse.com/) for his amazing contribution as the [Excel course](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=1s) owner of these projects. Without his help, I could never have achieved such a repository.
