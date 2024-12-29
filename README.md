@@ -1,6 +1,6 @@
 # Excel Data Analytics Projects
 
-Welcome to the Excel Data Analytics Projects repository! This collection highlights two advanced Excel projects designed to provide actionable insights into the data analytics job market. By leveraging a range of Excel tools and techniques, these projects deliver interactive dashboards and dynamic analyses to assist job seekers, career changers, and industry professionals.
+Welcome to my [Excel Data Analytics Projects repository!](https://github.com/rodyonraskolnikov/Excel_Projects-Data_Analytics). This collection highlights two advanced Excel projects designed to provide actionable insights into the data analytics job market. By leveraging a range of Excel tools and techniques, these projects deliver interactive dashboards and dynamic analyses to assist job seekers, career changers, and industry professionals.
 
 ### Project Highlights
 
