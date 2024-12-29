@@ -2,7 +2,7 @@
 
 Welcome to my collection of Excel data analytics projects. These projects showcase my skills in data analysis, visualization, and reporting using Excel. Each project is designed to provide valuable insights and practical solutions for data-driven decision-making.
 
-## [Salary Dashboard](/Project_1%20-%20Dashboard/)
+## [Project 1: Salary Dashboard](/Project_1%20-%20Dashboard/)
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. It provides clear insights into various positions, salary ranges, and regional differences, empowering users to make informed career decisions.
 
@@ -24,7 +24,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 - **Count of Job Schedule Type:** Unique list generation for job schedule types, ensuring clean and accurate data representation.
 - **Enhanced Data Validation:** Ensures user input is limited to predefined, validated schedule types, maintaining data accuracy.
 
-## [Skill/Job/Salary Analysis](/Project_2%20-%20Analysis)
+## [Project 2: Skill/Job/Salary Analysis](/Project_2%20-%20Analysis)
 
 As a former job seeker, I was frequently surprised by the lack of accessible data on the most sought-after jobs and skills in the data science field. Driven by this gap, I embarked on an analysis to identify the key skills valued by top employers and to explore strategies for achieving higher salaries. This project provides a comprehensive analysis of job titles, salaries, locations, and essential skills in the data science market.
 
