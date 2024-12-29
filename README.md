@@ -4,7 +4,7 @@ Welcome to my [Excel Data Analytics Projects](https://github.com/rodyonraskolnik
 
 ## Project Highlights
 
-### Project 1: [**Salary Dashboard**](/Project_1%20-%20Dashboard/)
+### Project 1: [**Salary Dashboard**](/Project_1%20-%20Salary%20Dashboard/)
    
 This project showcases a comprehensive salary dashboard that helps job seekers explore various roles in the data analytics field. The  dashboard presents key metrics such as job titles, locations, employment types (e.g., full-time, part-time, contractor), median salaries, top job platforms, and job counts. Job seekers can dynamically filter through the data to compare roles, uncover salary trends, and identify opportunities across different countries. Key Excel features utilized include:
 
@@ -14,9 +14,9 @@ This project showcases a comprehensive salary dashboard that helps job seekers e
 
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/5edbfede-27f8-41a5-b005-ea01949c566a)
 <sub>*Users can navigate through the dashboard by simply clicking the dropdown arrows and the whole dashboard updates itself.*<sub/>
-#### For the in-depth analysis of Project 1, [please click here.](/Project_1%20-%20Dashboard/)
+#### For the in-depth analysis of Project 1, [please click here.](/Project_1%20-%20Salary%20Dashboard/)
 
-### Project 2: [**Skill/Job/Salary Analysis**](/Project_2%20-%20Analysis)  
+### Project 2: [**Skill/Job/Salary Analysis**](/Project_2%20-%20Skill/Job/Salary%20Analysis)  
    
 The second project delves deeper into the critical skills required for data analytics roles. By using powerful Excel tools such as Power Query, PivotTables, DAX, and dynamic charts, this analysis identifies the most sought-after skills, including Python, SQL, Excel, and Tableau. The dashboard also enables users to compare median salaries for U.S., non-U.S., and specific countries using interactive slicers. Key findings include:
 
@@ -29,7 +29,7 @@ The second project delves deeper into the critical skills required for data anal
 ![2_Project_Analysis_Chart2](https://github.com/user-attachments/assets/6c9fadb6-2b2d-4dbb-8186-53c3e01e12a4)
 <sub>*The project allows median salary comparison between various job titles related to data analytics and locations around the world.*<sub/>
 
-#### For the in-depth analysis of Project 2, [please click here.](/Project_2%20-%20Analysis)
+#### For the in-depth analysis of Project 2, [please click here.](/Project_2%20-%20Skill/Job/Salary%20Analysis)
 
 ## Conclusion
 
