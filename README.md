@@ -39,7 +39,7 @@ The second project delves deeper into the critical skills required for data anal
 
 ## Conclusion
 
-These projects demonstrate the power of Excel in analyzing and visualizing complex data. By leveraging Excel's advanced features, such as PivotTables, charts, and data validation, I was able to uncover valuable insights and present them in an accessible format. I hope these projects serve as a useful resource for job seekers, data professionals, and anyone interested in data analytics.
+These projects demonstrate the power of Excel in analyzing and visualizing complex data. By leveraging Excel's advanced features, such as Power Query, Power Pivot, and DAX, I was able to uncover valuable insights and present them in an accessible format. I hope these projects serve as a useful resource for job seekers, data professionals, and anyone interested in data analytics.
 
 Feel free to explore the projects and reach out if you have any questions or feedback!
 
